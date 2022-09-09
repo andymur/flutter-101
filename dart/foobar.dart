@@ -16,7 +16,6 @@ void main(List<String> args) {
   
   //print(5 % 3);
   //print(l2);
-  //print(list);
 
   // 3 -> foo
   // 5 -> bar
